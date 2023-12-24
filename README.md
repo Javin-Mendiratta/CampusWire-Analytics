@@ -5,7 +5,7 @@
 
 
 
-* The original repository (where the team created the prokect) can be found at:
+* The original repository (where the team created the project) can be found at:
     * [https://github.com/Aryan-Dang/Campuswire-Analytics-team-B](https://github.com/Aryan-Dang/Campuswire-Analytics-team-B)
 
 
